@@ -4,6 +4,6 @@ hosted at <https://f2wb93bellamkonda.onrender.com>
 
 myclass=cat
 my attribute are
-bag_color:(String)
-bag_brand:(String)
-bag_price:(Number)
+cat_color:(String)
+cat_bread:(String)
+cat_price:(Number)
